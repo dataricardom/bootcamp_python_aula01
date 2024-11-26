@@ -1,5 +1,6 @@
 bonus_constante = 1000
 
+
 nome = input("Olá, qual é o seu nome: ")
 print(f"Seja bem vindo {nome}")
 
